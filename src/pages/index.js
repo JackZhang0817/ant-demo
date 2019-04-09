@@ -6,11 +6,9 @@ export default function() {
     <div className={styles.normal}>
       <div className={styles.welcome} />
       <ul className={styles.list}>
-        <li>To get started, edit <code>src/pages/index.js</code> and save to reload.</li>
+        <li>这里就不用了</li>
         <li>
-          <a href="https://umijs.org/guide/getting-started.html">
-            Getting Started
-          </a>
+          这里输入一些内容
         </li>
       </ul>
     </div>
