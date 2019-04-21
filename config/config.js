@@ -10,6 +10,7 @@ export default {
       dynamicImport: false,
       title: 'ant-demo',
       dll: false,
+      useEslint: false,
       
       routes: {
         exclude: [
