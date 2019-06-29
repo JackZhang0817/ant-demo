@@ -1,9 +1,8 @@
-import Article from './components/article';
-
+import Problem from './components/problem';
 export default () => {
     return (
         <div>
-            <Article />
+            <Problem />
         </div>
     );
 }
